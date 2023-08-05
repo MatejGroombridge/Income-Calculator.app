@@ -1,4 +1,4 @@
-# Money_Calc_App
+# Money-Calculator.app
 A simple calculator app built with tkinter in python that can be converted to an .app application file.
 
 ## Instruction:
